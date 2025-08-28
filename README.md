@@ -18,7 +18,7 @@ scikit-learn
 
 ###  🚀 How to Run
 Clone this repository:
-git clone https://github.com/your-username/sonar-rock-vs-mine.git
+git clone https://github.com/farhann-saleem/sonar-rock-vs-mine.git
 cd sonar-rock-vs-mine
 
 
